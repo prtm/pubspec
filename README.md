@@ -1,2 +1,23 @@
 # pubspec
-Upgrading packages in flutter
+
+python script helps you to update pubspec.yaml in flutter
+
+## Installation and Usage
+
+1. [Python3](https://www.python.org/downloads/) required
+2. Install pubspec
+```
+pip3 install pubspec
+```
+3. Run pubspec in same directory as pubspec.yaml file
+```
+pubspec
+```
+
+---
+## Screenshot
+![Output](https://raw.githubusercontent.com/prtm/pubspec/master/screenshots/output.png)
+
+
+## Suggestions
+Open to any suggestions.
