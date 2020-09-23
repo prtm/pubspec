@@ -1,6 +1,6 @@
 # pubspec
 
-python script helps you to update pubspec.yaml in flutter
+Update all package versions in flutter pubspec.yaml
 
 ## Installation and Usage
 
