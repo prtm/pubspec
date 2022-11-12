@@ -18,9 +18,9 @@ pubspec
 
 ---
 ## Demo
-![Video](https://raw.githubusercontent.com/prtm/pubspec/master/docs/images/demo.png)
+![Screenshot](https://raw.githubusercontent.com/prtm/pubspec/master/docs/images/demo.png)
 
-![Screenshot](https://raw.githubusercontent.com/prtm/pubspec/master/docs/videos/demo.mov)
+![Video](https://raw.githubusercontent.com/prtm/pubspec/master/docs/videos/demo.mov)
 
 
 ## Suggestions
