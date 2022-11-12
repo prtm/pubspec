@@ -20,7 +20,7 @@ pubspec
 ## Demo
 ![Screenshot](https://raw.githubusercontent.com/prtm/pubspec/master/docs/images/demo.png)
 
-![Video](https://raw.githubusercontent.com/prtm/pubspec/master/docs/videos/demo.mov)
+https://raw.githubusercontent.com/prtm/pubspec/master/docs/videos/demo.mov
 
 
 ## Suggestions
