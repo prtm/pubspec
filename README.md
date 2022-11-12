@@ -1,6 +1,8 @@
-# pubspec
+# Pubspec
 
 Update all package versions in flutter pubspec.yaml
+
+[Python Package Index](https://pypi.org/project/pubspec/)
 
 ## Installation and Usage
 
