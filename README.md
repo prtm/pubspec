@@ -17,8 +17,10 @@ pubspec
 ```
 
 ---
-## Screenshot
-![Output](https://raw.githubusercontent.com/prtm/pubspec/master/screenshots/output.png)
+## Demo
+![Screenshot](https://raw.githubusercontent.com/prtm/pubspec/master/docs/images/demo.png)
+
+![Screenshot](https://raw.githubusercontent.com/prtm/pubspec/master/docs/videos/demo.mov)
 
 
 ## Suggestions
