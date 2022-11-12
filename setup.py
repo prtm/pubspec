@@ -3,7 +3,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 setuptools.setup(
     name='pubspec',
-    version='0.1.6',
+    version='0.1.7',
     scripts=['pubspec'],
     author="Preetam",
     author_email="contact@preetam.dev",
@@ -18,8 +18,9 @@ setuptools.setup(
         "Operating System :: OS Independent",
     ],
     install_requires=[
-        'requests==2.24.0',
-        'ruamel.yaml==0.16.10',
-        'lxml==4.5.1',
+        'requests>=2.24.0',
+        'ruamel.yaml>=0.16.10',
+        'lxml>=4.5.1',
+        'pyyaml>=6.0',
     ]
 )
