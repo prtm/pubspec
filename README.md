@@ -18,9 +18,9 @@ pubspec
 
 ---
 ## Demo
-![Screenshot](https://raw.githubusercontent.com/prtm/pubspec/master/docs/images/demo.png)
+![Screenshot](https://user-images.githubusercontent.com/17068559/201468054-a8af7bcb-db53-408a-ba18-6cbf5208900e.png)
 
-https://raw.githubusercontent.com/prtm/pubspec/master/docs/videos/demo.mov
+https://user-images.githubusercontent.com/17068559/201467967-8fc4706d-83a4-4f17-a0ee-58eda9fdb178.mov
 
 
 ## Suggestions
